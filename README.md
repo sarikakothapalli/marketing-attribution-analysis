@@ -64,6 +64,7 @@ Python was used for:
   * First-Touch Attribution
   * Last-Touch Attribution
   * Multi-Touch (Linear Attribution)
+![Dashboard](Screenshots/PythonCleaning.png)
 
 👉 This transformed campaign-level data into a **customer journey dataset suitable for attribution analysis**.
 
@@ -102,9 +103,11 @@ An interactive dashboard was built using **Power BI** to visualize attribution r
 
 ---
 
-### 🖼️ Dashboard Preview
+### 🖼️ Dashboards Preview
 
-![Dashboard](Dashboard.png)
+![Dashboard](Screenshots/Dashboard1.png)
+![Dashboard](Screenshots/Dashboard2.png)
+![Dashboard](Screenshots/Dashboard3.png)
 
 ---
 
